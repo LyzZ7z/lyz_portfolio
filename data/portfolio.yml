@@ -1,58 +1,34 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
-    description: 'All my coding projects'
+  - title: Mes projets
+    description: 'Tous mes projets de travail éditorial et de communication'
     portfolioitem:
       - name: Battantes ! Elles rêvent en grand. Version adaptée
         image: '/images/portfolio/projet-battantes.png'
-        link: https://gohugo.io/
-        linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        link: /post/projet-battantes/
+        linktext: 'Détail du projet'
+        description: 'Réédition du livre de la Maison du sport au féminin, "Battantes ! Elles rêvent en grand.", en version adaptée pour les difficultés de lecture.'
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
-        start: '2020'
-        end: '2021'
-        authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        status: 'On Hold'
+          - édition
+          - communication
+        status: 'En cours'
+        start: '2024'
+        end: '2025'
+      - name: Podcast - De l'autre côté de la machine
+        image: '/images/portfolio/podcast2.jpg'
+        link: /post/de-lautre-côté-de-la-machine/
+        linktext : 'Détail du projet'
+        description: 'Elaboration, tournage et montage d’un podcast autour de l’IA et de ses impacts sociaux, environnementaux et économiques.'
+        status: 'En cours'
+        start: '2024'
+        end: '2025'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
+          - podcast
+          - édition numérique
+      - name: Livre numérique - De l'autre côté de la machine
         link: https://gohugo.io/
-        status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        tags:
-          - Tag 1
-          - Tag 2
-  # portfolio category
-  - title: Research
-    description: 'All my research projects'
-    portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
+        status: 'En cours'
+        description: 'Réalisation des infographies et travail de la maquette ePub sur InDesign du livre numérique associé au podcast.'
         tags:
           - Tag 1
           - Tag 2
