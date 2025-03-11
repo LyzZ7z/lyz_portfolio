@@ -27,6 +27,7 @@ portfolioitems:
           - édition numérique
       - name: Livre numérique - De l'autre côté de la machine
         link: https://gohugo.io/
+        linktext: 'Détail du projet'
         status: 'En cours'
         description: 'Réalisation des infographies et travail de la maquette ePub sur InDesign du livre numérique associé au podcast.'
         tags:
