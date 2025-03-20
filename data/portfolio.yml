@@ -15,8 +15,8 @@ portfolioitems:
         start: '2024'
         end: '2025'
       - name: Podcast - De l'autre côté de la machine
-        image: '/images/portfolio/logo-podcast.png'
-        link: /post/de-lautre-côté-de-la-machine/
+        image: '/lyz_portfolio/images/portfolio/logo-podcast.png'
+        link: /lyz_portfolio/post/de-lautre-côté-de-la-machine/
         linktext : 'Détail du projet'
         description: 'Elaboration, tournage et montage d’un podcast autour de l’IA et de ses impacts sociaux, environnementaux et économiques.'
         status: 'En cours'
