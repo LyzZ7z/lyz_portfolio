@@ -4,8 +4,8 @@ portfolioitems:
     description: 'Tous mes projets de travail éditorial et de communication'
     portfolioitem:
       - name: Battantes ! Elles rêvent en grand. Version adaptée
-        image: '/images/portfolio/projet-battantes.png'
-        link: /post/projet-battantes/
+        image: '/lyz_portfolio/images/portfolio/projet-battantes.png'
+        link: /lyz_portfolio/post/projet-battantes/
         linktext: 'Détail du projet'
         description: 'Réédition du livre de la Maison du sport au féminin, "Battantes ! Elles rêvent en grand.", en version adaptée pour les difficultés de lecture.'
         tags:

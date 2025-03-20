@@ -5,4 +5,4 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Alice Lemarchand"
 +++
 
-![Mon CV](/images/CV.jpg)
+![Mon CV](/lyz_portfolio/images/CV.jpg)
