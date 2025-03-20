@@ -10,4 +10,11 @@ tags:
 
 Dans le cadre de notre projet tutoré, encadré par Joël Faucilhon, nous avons travaillé sur un [manuel écrit](/post/livre-numérique-de-lautre-côté-de-la-machine/) traitant de la culture numérique. Au sein de notre parcours **numérique**, nous avons souhaité aller plus loin. C'est ainsi qu'est né notre **podcast** : ***De l'autre côté de la Machine***.
 
-Nous avions pour objectif de traiter de l'**Intelligence Artificelle** sous un nouvel angle. Pour cela, nous nous sommes appuyés sur le [Contre-atlas de l'intelligence artificielle](https://www.zulma.fr/livre/contre-atlas-de-lintelligence-artificielle/) de Kate Crawford. Nous avons repris les divers thèmes qu'elle aborde afin de discuter de chacun d'entre eux avec des experts de ces domaines. Ainsi, nous avons discuté du traitement des données et de l'impact de l'IA sur l'environnement, la gouvernance, la justice, le social, l'affect et la reproduction des biais. 
+![logo podcast](/lyz_portfolio/images/portfolio/logo-podcast.png)
+
+Nous avions pour objectif de traiter de l'**Intelligence Artificelle** sous un nouvel angle. Pour cela, nous nous sommes appuyés sur le [Contre-atlas de l'intelligence artificielle](https://www.zulma.fr/livre/contre-atlas-de-lintelligence-artificielle/) de Kate Crawford. Nous avons repris les divers thèmes qu'elle aborde afin de discuter de chacun d'entre eux avec des experts de ces domaines. Ainsi, nous avons discuté du traitement des données et de l'impact de l'IA sur l'environnement, la gouvernance, la justice, le social, l'affect et la classification. 
+
+
+
+### Les missions que j'ai effectuées :
+  * 

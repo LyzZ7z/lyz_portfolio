@@ -18,7 +18,7 @@ L'ouvrage est ainsi destiné à un jeune public, âgé entre 10 et 12 ans, et es
 
 ## Une nouvelle édition de "Battantes !" en format adapté
 
-En 2024, la Maison du sport au féminin propose à la licence professionnelle Edition de Toulouse Jean Jaurès de reprendre le projet "Battantes". L'objectif est de produire une nouvelle édition du livre inspirée du FALC (Facile A Lire et à Comprendre) afin de le rendre plus **accessible** pour les personnes ayant des **difficultés de lecture**. Le projet commence alors sous la supervision de Laura Vergé. 
+En 2024, la Maison du sport au féminin propose à la licence professionnelle Edition de Toulouse Jean Jaurès de reprendre le projet "Battantes". L'objectif est de produire une nouvelle édition du livre inspirée du **FALC** (Facile A Lire et à Comprendre) afin de le rendre plus **accessible** pour les personnes ayant des **difficultés de lecture**. Le projet commence alors sous la supervision de Laura Vergé. 
 
 Dans le cadre de ce projet, j'ai pris place dans le pôle communication. J'ai ainsi particulièrement travaillé en collaboration étroite avec la Maison du Sport au féminin dans la réalisation d'une campagne de communication. 
 
